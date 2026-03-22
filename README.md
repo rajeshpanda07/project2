@@ -1,2 +1,3 @@
 # new project
-This projrct was created from local system.
+This project was created from local system.
+Rajesh Kumar Panda.
